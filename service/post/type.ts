@@ -3,4 +3,4 @@ export type GetPostsResponse = {
   id: number;
   title: string;
   body: string;
-};
+}[];
